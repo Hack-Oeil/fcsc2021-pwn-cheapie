@@ -3,7 +3,7 @@
 Êtes-vous familier avec le tas ?
 
 
-Auteurs : Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Cheapie](https://hackropole.fr/fr/challenges/pwn/fcsc2021-pwn-cheapie/)
 
